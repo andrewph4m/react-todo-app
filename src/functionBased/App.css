@@ -65,7 +65,7 @@ body {
 }
 
 .active-link {
-  color: orangered;
+  color: rgb(247, 247, 247);
   text-decoration: underline;
 }
 
@@ -92,7 +92,7 @@ body {
   list-style: none;
   position: fixed;
   top: 0;
-  background: darkcyan;
+  background: rgb(5, 9, 65);
   left: 0;
   bottom: 0;
   height: 100vh;
@@ -110,7 +110,7 @@ a {
   display: block;
   padding: 10px 40px;
   text-decoration: none;
-  color: #3fffd2;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: bold;
   outline: none;

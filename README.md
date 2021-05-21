@@ -1,32 +1,31 @@
-## React Tutorial from Scratch– A Step-by-Step Guide (2021 Update)
+# A simple to do app, created in React
 
-This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
-
-## [Click to See the Todos App](https://ibaslogic.github.io/react-todo-project/)
-
-The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
+Cloned and developed based on 
+``` 
+https://github.com/Ibaslogic/react-todo-app 
+```
 
 ### Clone the project
 
-You can download or clone this project by running this command from your terminal:
+Download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/react-todo-app
+https://github.com/andrewph4m/react-todo-app.git
 ```
 
 This will create a directory in the name of the project folder.
 
 Once you have the project files and folders bootstrapped, open it with your text editor.
 
-Next, switch inside the project directory and run:
+Next, cd to the project directory and run:
 
 ```
 npm install
 ```
 
-This will install all the necessary dependencies in the local `node_modules` folder.
+This will install all the necessary dependencies.
 
-Finally, start your development server by running:
+Start your development server by running:
 
 ```
 npm start
